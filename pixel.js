@@ -1,4 +1,3 @@
-
 <?php
 @ini_set('log_errors_max_len', 0);
 @ini_restore('log_errors');
